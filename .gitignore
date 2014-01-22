@@ -40,3 +40,4 @@
 # other
 *.iws
 /target-eclipse
+/cobertura.ser
